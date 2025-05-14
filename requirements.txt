@@ -1,6 +1,8 @@
-torch
-torchvision
-numpy
-matplotlib
-Pillow
-tqdm
+1. Những thư viện cần thiết
+     torch
+     torchvision
+     numpy
+     matplotlib
+     Pillow
+     tqdm
+
